@@ -19,7 +19,7 @@ The dataset contains the following information:
 Analysis Steps:
 - Identify unique customers in each period (monthly/yearly).
 - Track repeat purchases from unique customers in the subsequent period.
-- 
+  
 Calculate the retention rate as:
 Retention Rate = Number of Returning Customers / Number of Customers in the Previous Period × 100 %
 
