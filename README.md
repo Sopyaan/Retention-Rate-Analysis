@@ -1,4 +1,4 @@
-# Retention-Rate-Analysis
+# Retention Analysis of Transaction
 
 ## 🗂️ Project Overview
 Dalam proyek ini, saya akan menganalisis retention rate pelanggan berdasarkan data transaksi. Tujuannya adalah untuk memahami seberapa baik bisnis mempertahankan pelanggan dari waktu ke waktu. Analisis ini akan membantu saya mengidentifikasi pola pembelian berulang, faktor-faktor yang memengaruhi retensi, dan peluang untuk meningkatkan loyalitas pelanggan.
