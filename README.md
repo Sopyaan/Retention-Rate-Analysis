@@ -1,25 +1,25 @@
 # Retention Analysis of Transaction
 
 ## 🗂️ Project Overview
-Dalam proyek ini, saya akan menganalisis retention rate pelanggan berdasarkan data transaksi. Tujuannya adalah untuk memahami seberapa baik bisnis mempertahankan pelanggan dari waktu ke waktu. Analisis ini akan membantu saya mengidentifikasi pola pembelian berulang, faktor-faktor yang memengaruhi retensi, dan peluang untuk meningkatkan loyalitas pelanggan.
+In this project, I will analyze the customer retention rate based on transaction data. The goal is to understand how well the business retains its customers over time. This analysis will help me identify repeat purchase patterns, factors influencing retention, and opportunities to enhance customer loyalty.
 
 ## 🎯 Objectives
-- Menghitung Retention Rate: Mengukur persentase pelanggan yang kembali melakukan pembelian dalam periode tertentu.
-- Mengidentifikasi Tren Retensi: Menganalisis pola waktu dan karakteristik pelanggan yang berkontribusi pada retensi.
-- Memberikan Rekomendasi: Menyusun strategi berdasarkan wawasan retensi untuk meningkatkan loyalitas pelanggan.
+1. Calculate Retention Rate: Measure the percentage of customers who return to make a purchase within a specific period.
+2. Identify Retention Trends: Analyze time-based patterns and customer characteristics that contribute to retention.
+3. Provide Recommendations: Develop strategies based on retention insights to improve customer loyalty.
 
 ## 📊 Data Description
-Dataset yang digunakan berisi informasi sebagai berikut:
+The dataset contains the following information:
 
-- Transaction Details: Berisi data transaksi, termasuk tanggal, ID transaksi, dan status pesanan.
-- Customer Details: Meliputi ID pelanggan untuk melacak pembelian berulang.
-Product Details: Informasi tentang produk yang dibeli, termasuk brand, product line, dan harga.
-- Order Details: Mencakup status pesanan (online/offline) dan ukuran pesanan.
+- Transaction Details: Includes transaction data, such as dates, transaction IDs, and order statuses.
+- Customer Details: Contains customer IDs to track repeat purchases.
+- Product Details: Information about purchased products, including brand, product line, and pricing.
+- Order Details: Covers order status (online/offline) and order size.
   
-Langkah Analisis:
-
-- Mengidentifikasi pelanggan unik setiap periode (bulan/tahun).
-- Melacak pembelian berulang dari pelanggan unik pada periode berikutnya.
+Analysis Steps:
+- Identify unique customers in each period (monthly/yearly).
+- Track repeat purchases from unique customers in the subsequent period.
 - 
-Menghitung retention rate sebagai:
-Retention Rate = Jumlah Pelanggan yang Kembali / Jumlah Pelanggan pada Periode Sebelumnya × 100 %
+Calculate the retention rate as:
+Retention Rate = Number of Returning Customers / Number of Customers in the Previous Period × 100 %
+
