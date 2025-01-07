@@ -23,3 +23,26 @@ Analysis Steps:
 Calculate the retention rate as:
 Retention Rate = Number of Returning Customers / Number of Customers in the Previous Period × 100 %
 
+## 🌟 Adventure Works: Comprehensive Performance Report
+### Retention Rate Over Time:
+- Across most cohorts, the retention rate declines gradually in the second and third months.
+The April 2017 cohort stands out with the highest 3rd-month retention rate (46%), suggesting effective engagement strategies or product launches during this period.
+
+### Strong Recovery in July 2017:
+- The July 2017 cohort displays a peak retention rate of 48% in the 4th month. This indicates a significant effort or event that successfully re-engaged users during this timeframe.
+  
+### Long-Term Retention Stability:
+- Retention rates stabilize around 37–39% in the later months (10th to 12th) for many cohorts, showcasing consistent user loyalty over time.
+  
+### Peak Transaction Frequency:
+- The highest number of customers completed 5-6 transactions, with over 600 customers in this range. This indicates a sweet spot where customers are most engaged.
+  
+### Right-Skewed Distribution:
+- The chart displays a right-skewed distribution, meaning most customers tend to have fewer transactions, while a smaller number of customers are highly active with 10+ transactions.
+  
+### Declining Frequency with Higher Transactions:
+- As the number of transactions increases beyond 6, the frequency drops significantly. Few customers reach 12-14 transactions, suggesting it is challenging to keep customers consistently engaged at higher levels.
+  
+### Customer Base Segmentation:
+- The majority of customers fall within the 2-8 transaction range, making this group a key target for retention and upselling strategies.
+
