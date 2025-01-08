@@ -3,6 +3,8 @@
 ## 🗂️ Project Overview
 In this project, I will analyze the customer retention rate based on transaction data. The goal is to understand how well the business retains its customers over time. This analysis will help me identify repeat purchase patterns, factors influencing retention, and opportunities to enhance customer loyalty.
 
+[Analysis Data](https://github.com/Sopyaan/Retention-Rate-Analysis/blob/main/Retention_Analysis.ipynb) 
+
 ## 🎯 Objectives
 1. Calculate Retention Rate: Measure the percentage of customers who return to make a purchase within a specific period.
 2. Identify Retention Trends: Analyze time-based patterns and customer characteristics that contribute to retention.
@@ -24,6 +26,10 @@ Calculate the retention rate as:
 Retention Rate = Number of Returning Customers / Number of Customers in the Previous Period × 100 %
 
 ## 🌟 Adventure Works: Comprehensive Performance Report
+<p align="center">
+  <img src="https://github.com/Sopyaan/Retention-Rate-Analysis/blob/main/images/Cuplikan%20layar%202025-01-08%20063835.png", width="" height="">
+</p>
+
 ### Retention Rate Over Time:
 - Across most cohorts, the retention rate declines gradually in the second and third months.
 The April 2017 cohort stands out with the highest 3rd-month retention rate (46%), suggesting effective engagement strategies or product launches during this period.
@@ -33,7 +39,11 @@ The April 2017 cohort stands out with the highest 3rd-month retention rate (46%)
   
 ### Long-Term Retention Stability:
 - Retention rates stabilize around 37–39% in the later months (10th to 12th) for many cohorts, showcasing consistent user loyalty over time.
-  
+
+<p align="center">
+  <img src="https://github.com/Sopyaan/Retention-Rate-Analysis/blob/main/images/Cuplikan%20layar%202025-01-08%20064009.png", width="" height="">
+</p>
+
 ### Peak Transaction Frequency:
 - The highest number of customers completed 5-6 transactions, with over 600 customers in this range. This indicates a sweet spot where customers are most engaged.
   
