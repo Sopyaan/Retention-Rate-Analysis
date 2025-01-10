@@ -57,7 +57,22 @@ The April 2017 cohort stands out with the highest 3rd-month retention rate (46%)
 - The majority of customers fall within the 2-8 transaction range, making this group a key target for retention and upselling strategies.
 
 ## 📋 Actionable Recommendations
-### 1. Strengthen Early Retention (First 3 Months)
+### Strengthen Early Retention (First 3 Months)
 - Retention rates drop significantly after the second month. The actions are Implement personalized onboarding emails or campaigns for new customers to encourage repeat purchases early. Offer "welcome back" discounts or limited-time promotions for customers who haven’t made a second purchase within the first 60 days.
 Introduce loyalty programs that reward repeat purchases within the first 3 months.
+
+### Build on the Sweet Spot (5-6 Transactions)
+- Most customers complete 5-6 transactions, making it a key engagement point. The actions are Design tiered loyalty rewards to encourage customers to move from 5-6 transactions to 7-8.
+  
+### Optimize for the 2-8 Transaction Range
+- Most customers fall in this range, making it vital for upselling and retention. Use data to create product bundles that encourage larger purchases.
+Follow up after purchases with tailored product suggestions.
+
+### Monitor and Reduce Churn
+- Retention drops after the initial peak periods.Build churn prediction models to identify customers at risk of leaving.
+Offer subscription-based perks to promote consistent repeat purchases.
+
+### Enhance Customer Segmentation
+- Different engagement levels require tailored strategies. Segment customers by transaction frequency and create customized approaches for each group.
+Focus retention efforts on mid-tier customers (4-6 transactions) to move them up.
 
