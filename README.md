@@ -57,9 +57,7 @@ The April 2017 cohort stands out with the highest 3rd-month retention rate (46%)
 - The majority of customers fall within the 2-8 transaction range, making this group a key target for retention and upselling strategies.
 
 ## 📋 Actionable Recommendations
-1. Strengthen Early Retention (First 3 Months)
--**Why:** Retention rates drop significantly after the second month.
-- **Action:** Implement personalized onboarding emails or campaigns for new customers to encourage repeat purchases early.
-Offer "welcome back" discounts or limited-time promotions for customers who haven’t made a second purchase within the first 60 days.
+### 1. Strengthen Early Retention (First 3 Months)
+- Retention rates drop significantly after the second month. The actions are Implement personalized onboarding emails or campaigns for new customers to encourage repeat purchases early. Offer "welcome back" discounts or limited-time promotions for customers who haven’t made a second purchase within the first 60 days.
 Introduce loyalty programs that reward repeat purchases within the first 3 months.
 
